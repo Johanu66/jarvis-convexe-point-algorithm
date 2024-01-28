@@ -1,1 +1,2 @@
-./*.o
+./graham.o
+./OpenGL.o
