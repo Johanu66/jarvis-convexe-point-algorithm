@@ -1,1 +1,3 @@
-*.o
+graham.o
+OpenGL.o
+.gitignore
